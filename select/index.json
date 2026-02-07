@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "ギャンブル (LIVE)",
+  "base_artist": "椎名林檎",
+  "createdAt": "2026-02-07T12:47:01.418019Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ギャンブル",
+      "artist": "syudou",
+      "has_synced": true,
+      "path": "select/01_ギャンブル_syudou.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ギャンブル - LIVE",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/02_ギャンブル_-_LIVE_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ギャンブル",
+      "artist": "mei ehara",
+      "has_synced": true,
+      "path": "select/03_ギャンブル_mei_ehara.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ギャンブル",
+      "artist": "Shiina Ringo",
+      "has_synced": true,
+      "path": "select/04_ギャンブル_Shiina_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ギャンブル",
+      "artist": "syudou",
+      "has_synced": true,
+      "path": "select/05_ギャンブル_syudou.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ギャンブル",
+      "artist": "椎名林檎×斎藤ネコ",
+      "has_synced": true,
+      "path": "select/06_ギャンブル_椎名林檎×斎藤ネコ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ギャンブル",
+      "artist": "Shiina, Ringo×Saito, Neko",
+      "has_synced": false,
+      "path": "select/07_ギャンブル_Shiina,_Ringo×Saito,_Neko.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ギャンブル",
+      "artist": "Sheena Ringo×Saito Neko",
+      "has_synced": false,
+      "path": "select/08_ギャンブル_Sheena_Ringo×Saito_Neko.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ギャンブル",
+      "artist": "椎名林檎 x 斎藤ネコ",
+      "has_synced": true,
+      "path": "select/09_ギャンブル_椎名林檎_x_斎藤ネコ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ギャンブル",
+      "artist": "椎名林檎",
+      "has_synced": false,
+      "path": "select/10_ギャンブル_椎名林檎.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ギャンブル",
+      "artist": "Yuu.",
+      "has_synced": true,
+      "path": "select/11_ギャンブル_Yuu..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ギャンブル - Gambling",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/12_ギャンブル_-_Gambling_syudou.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ギャンブル",
+      "artist": "椎名林檎 x 斎藤ネコ",
+      "has_synced": false,
+      "path": "select/pl_01_ギャンブル_椎名林檎_x_斎藤ネコ.txt"
+    }
+  ]
+}
